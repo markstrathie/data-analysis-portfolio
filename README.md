@@ -1,5 +1,5 @@
-Lettuce_Growth_Days
-What factors can improve lettuce growth rate?
+**Lettuce_Growth_Days**
+- what factors can improve lettuce growth rate?
 - a small data analysis project using MS Excel. Part of my Google Data Analytics Professional Certificate
 - I combined 2 .csv datasets into lettuce_EDA.xlsx
 - formatted the data and took an initial look. I then wrote a scope of work for the project SOW.docx
