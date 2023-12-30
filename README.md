@@ -6,3 +6,4 @@ Lettuce_Growth_Days
 - performed exploratory data analysis to find correlations
 - bivariate analysis showed slight correlations between temperate and humidity with growth rate
 - bivariate analysis showed slightly stronger correlations between TDS and pH level with growth rate
+- produced visualisations using Excel in form of 4 scatter plots with trendline
