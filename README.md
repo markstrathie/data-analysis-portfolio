@@ -9,6 +9,7 @@
 - bivariate analysis showed slight correlations between temperate and humidity with growth rate
 - bivariate analysis showed slightly stronger correlations between TDS and pH level with growth rate
 - produced visualisations using Excel in form of 4 scatter plots with trendlines
+
   
 **Lettuce_Growth_Days**  
 *Dec 2023*
