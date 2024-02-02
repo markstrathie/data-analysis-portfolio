@@ -1,4 +1,4 @@
-**Lettuce_Growth_Days**
+**Lettuce_Growth_Days - Dec 2023** 
 - what factors can improve lettuce growth rate?
 - a small data analysis project using MS Excel. Part of my Google Data Analytics Professional Certificate
 - I combined 2 .csv datasets into lettuce_EDA.xlsx
